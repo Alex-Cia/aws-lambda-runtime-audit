@@ -10,13 +10,13 @@ The current example focuses on Python 3.10 runtime auditing, because Python 3.10
 
 ### The example below shows the tool scanning a region and finding a Lambda function matching the selected runtime.
 
-![terminal_scanning_matching_lambda_functions_found.png](/assets/terminal_scanning_matching_lambda_functions_found.png)
+![terminal_scanning_matching_lambda_functions_found.png](/aws-lambda-runtime-audit/assets/terminal_scanning_matching_lambda_functions_found.png)
 
 # 💻 No matching Lambda functions found
 
 ### The example below shows the tool scanning regions where no Lambda functions matched the selected runtime.
 
-![terminal_scanning_no_matching_lambda_functions_found.png](/assets/terminal_scanning_no_matching_lambda_functions_found.png)
+![terminal_scanning_no_matching_lambda_functions_found.png](/aws-lambda-runtime-audit/assets/terminal_scanning_no_matching_lambda_functions_found.png)
 
 ---
 
