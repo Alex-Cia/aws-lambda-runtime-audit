@@ -8,13 +8,15 @@ The current example focuses on Python 3.10 runtime auditing, because Python 3.10
 
 # 💻 Matching Lambda function found
 
-The example below shows the tool scanning a region and finding a Lambda function matching the selected runtime.
-![Terminal output showing matching Lambda function found](assets/terminal_scanning_matching_lambda_functions_found.png)
+### The example below shows the tool scanning a region and finding a Lambda function matching the selected runtime.
+
+![terminal_scanning_matching_lambda_functions_found.png](/assets/terminal_scanning_matching_lambda_functions_found.png)
 
 # 💻 No matching Lambda functions found
 
-The example below shows the tool scanning regions where no Lambda functions matched the selected runtime.
-![Terminal output showing no matching Lambda functions found](assets/terminal_scanning_no_matching_lambda_functions_found.png)
+### The example below shows the tool scanning regions where no Lambda functions matched the selected runtime.
+
+![terminal_scanning_no_matching_lambda_functions_found.png](/assets/terminal_scanning_no_matching_lambda_functions_found.png)
 
 ---
 
@@ -260,7 +262,7 @@ python aws_lambda_runtime_audit.py \ --regions us-east-1 \ --runtime python3.10 
 
 ## Export Results to CSV
 
-Create the reports folder:
+Create the reports' folder:
 
 ```bash
 `mkdir reports`
