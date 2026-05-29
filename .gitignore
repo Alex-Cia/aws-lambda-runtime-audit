@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+.vscode/
+
+# Environment variables / secrets
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test/cache/build output
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
+*.egg-info/
+
+# Local reports
+reports/
+output/
+exports/
+
+# AWS credentials and secrets
+.aws/
+*.pem
+*.key
+credentials
+config
